@@ -9,7 +9,7 @@ The system aims:
 2. To improve the search and retrieval efficiency of records.
 3. To reduce manual and redundant record-keeping processes.
 
-## Key Features:
+## Features
 - **PDL Search:** Locate records using name or ID
 - **PDL Details:** View complete inmate profiles
 - **Add/Edit Records:** Manage and update PDL data securely
