@@ -9,6 +9,12 @@ The system aims:
 2. To improve the search and retrieval efficiency of records.
 3. To reduce manual and redundant record-keeping processes.
 
+#### Key Features:
+- **PDL Search:** Locate records using name or ID
+- **PDL Details:** View complete inmate profiles
+- **Add/Edit Records:** Manage and update PDL data securely
+- **Download Records:** Export data to PDF for offline use
+
 ## System Development
 ### Front-End Development
 The user interface is built using:
@@ -21,13 +27,7 @@ The system uses:
 - PHP for server-side processing
 - SQL for database management
 
-#### Key Features:
-- **PDL Search:** Locate records using name or ID
-- **PDL Details:** View complete inmate profiles
-- **Add/Edit Records:** Manage and update PDL data securely
-- **Download Records:** Export data to PDF for offline use
-
-## 🚀 How to Run the Project
+## How to Run the Project
 1. Install XAMPP or similar local server
 2. Copy project folder to `htdocs`
 3. Import `database.sql` into phpMyAdmin
