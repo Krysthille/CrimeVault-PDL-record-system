@@ -9,6 +9,25 @@ The system aims:
 2. To improve the search and retrieval efficiency of records.
 3. To reduce manual and redundant record-keeping processes.
 
+## Screenshots
+### Log In Page
+![Home Page](screenshots/cv-login.jpeg)
+
+### Home Page
+![Home Page](screenshots/cv-home.jpeg)
+
+### PDL Information
+![PDL Information](screenshots/cv-pdl-info.jpeg)
+
+### Add / Edit Record
+![Add Record](screenshots/cv-add-new.jpeg)
+
+### Download
+![Download](screenshots/cv-download.jpeg)
+
+### To Print
+![To Print](screenshots/cv-print.jpeg)
+
 ## Features
 - **PDL Search:** Locate records using name or ID
 - **PDL Details:** View complete inmate profiles
